@@ -1,0 +1,28 @@
+{
+  "name": "golden-hour-portfolio",
+  "version": "1.0.0",
+  "description": "AVO — Golden Hour Creative Portfolio from Stitch",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "portfolio",
+    "golden-hour",
+    "tailwind",
+    "creative-developer"
+  ],
+  "author": "AVO",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^16.3.6",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.6.1",
+    "postcss": "^8.5.28",
+    "tailwindcss": "^3.4.17"
+  }
+}
